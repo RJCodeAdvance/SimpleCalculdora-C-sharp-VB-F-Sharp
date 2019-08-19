@@ -1,0 +1,8 @@
+C:\Users\RJ Code Advance\Documents\Visual Studio 2015\Projects\CalculadoraAPP\CapaDominioFSharp\bin\Debug\CapaDominioFSharp.XML
+C:\Users\RJ Code Advance\Documents\Visual Studio 2015\Projects\CalculadoraAPP\CapaDominioFSharp\bin\Debug\CapaDominioFSharp.dll
+C:\Users\RJ Code Advance\Documents\Visual Studio 2015\Projects\CalculadoraAPP\CapaDominioFSharp\bin\Debug\CapaDominioFSharp.pdb
+C:\Users\RJ Code Advance\Documents\Visual Studio 2015\Projects\CalculadoraAPP\CapaDominioFSharp\bin\Debug\FSharp.Core.dll
+C:\Users\RJ Code Advance\Documents\Visual Studio 2015\Projects\CalculadoraAPP\CapaDominioFSharp\bin\Debug\FSharp.Core.xml
+C:\Users\RJ Code Advance\Documents\Visual Studio 2015\Projects\CalculadoraAPP\CapaDominioFSharp\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\RJ Code Advance\Documents\Visual Studio 2015\Projects\CalculadoraAPP\CapaDominioFSharp\obj\Debug\CapaDominioFSharp.dll
+C:\Users\RJ Code Advance\Documents\Visual Studio 2015\Projects\CalculadoraAPP\CapaDominioFSharp\obj\Debug\CapaDominioFSharp.pdb
